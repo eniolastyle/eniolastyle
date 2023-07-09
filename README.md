@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [eniolaamiola.vercel.app](eniolaamiola.vercel.app)
 
-- 📝 I regularly write articles on [https://devopsnode.hashnode.dev/](https://devopsnode.hashnode.dev/)
+- 📝 I write articles on [https://devopsnode.hashnode.dev/](https://devopsnode.hashnode.dev/)
 
 - 💬 Ask me about **DevOps**
 
