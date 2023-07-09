@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/eniolaamiola_" target="blank"><img src="https://img.shields.io/twitter/follow/eniolaamiola_?logo=twitter&style=for-the-badge" alt="eniolaamiola_" /></a> </p>
 
-- 🔭 I’m currently working on **Bookstore IaC/CICD**
+- 🔭 I’m currently working on **Cloud Security**
 
-- 🌱 I’m currently learning **Jenkins CI/CD**
+- 🌱 I’m currently or looking forward to learning **K8s**
 
 - 👨‍💻 All of my projects are available at [eniolaamiola.vercel.app](eniolaamiola.vercel.app)
 
