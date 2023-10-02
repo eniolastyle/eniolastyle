@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Kubernetes**
 
-- 👨‍💻 All of my projects are available at [eniolaamiola.vercel.app](eniolaamiola.vercel.app)
+- 👨‍💻 All of my projects are available at [eniolaamiola.netlify.app](eniolaamiola.netlify.app)
 
 - 📝 I write articles on [https://devopsnode.hashnode.dev/](https://devopsnode.hashnode.dev/)
 
