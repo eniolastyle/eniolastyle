@@ -11,15 +11,9 @@
 
 - 🔭 I’m currently working on **Kubernetes**
 
-- 👨‍💻 All of my projects are available at [eniolaamiola.netlify.app](eniolaamiola.netlify.app)
-
-- 📝 I write articles on [https://devopsnode.hashnode.dev/](https://devopsnode.hashnode.dev/)
-
 - 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **eniolaamiola@gmail.com**
-
-- 📄 Know about my experiences [eniolaamiola.netlify.app](eniolaamiola.netlify.app)
 
 - ⚡ Fun fact **I like computers**
 
