@@ -4,7 +4,7 @@
 
 I build and operate reliable cloud infrastructure, automate software delivery, and help engineering teams understand the tradeoffs behind their platforms. My work spans Linux, containers, Kubernetes, infrastructure as code, CI/CD, observability, recovery, and cost-conscious operations.
 
-I currently lead infrastructure operations supporting platforms used by more than **10,000 students**. Recent work includes containerized production services, centralized metrics and logging, CRM platform evaluation, legacy email recovery, Microsoft 365 administration, workload consolidation, and infrastructure cost reduction.
+I currently lead infrastructure operations supporting platforms used by more than **20,000 students**. Recent work includes containerized production services, centralized metrics and logging, CRM platform evaluation, legacy email recovery, Microsoft 365 administration, workload consolidation, and infrastructure cost reduction.
 
 - Based in Ilorin, Nigeria and open to global remote opportunities
 - Interested in DevOps, platform, cloud, SRE, and infrastructure engineering roles
